@@ -141,6 +141,15 @@ body {
         font-size: 2.8rem;
     }
 
+    .hhonbun img {
+        height: 2.8rem;
+        vertical-align:top;
+        margin-right: 5px;
+        filter: invert(100%);
+        filter: contrast(0%);
+        filter: brightness(0);
+    }
+
     .hhonbunp {
         margin: auto;
         text-align: left;
@@ -381,6 +390,15 @@ screen and (min-width: 961px) {
 
     .hhonbun p span {
         font-size: 2.8rem;
+    }
+
+    .hhonbun img {
+        height: 2.8rem;
+        vertical-align:top;
+        margin-right: 5px;
+        filter: invert(100%);
+        filter: contrast(0%);
+        filter: brightness(0);
     }
 
     .hhonbunp {
